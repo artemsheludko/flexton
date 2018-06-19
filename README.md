@@ -5,7 +5,7 @@
 
 <h2>Demo</h2>
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexton/)
+Check the theme in action [Demo](https://flexton.netlify.com/)
 
 ![Page preview](https://github.com/artemsheludko/flexton/blob/master/images/preview.png?raw=true)
 
@@ -39,9 +39,11 @@ Check the theme in action [Demo](https://artemsheludko.github.io/flexton/)
   <li>Preview Images form <a href="https://unsplash.com/">unsplash.com</a>, <a href="https://www.pexels.com/">pexels.com</a></li>
 </ul>
 
-<h2>How to use</h2>
+<h2>Deployment</h2>
 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec serve` to start the Jekyll server.
+
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
 <h2>Buy me a coffee</h2>
 
