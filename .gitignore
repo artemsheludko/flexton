@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 .editorconfig
 *.DS_Store
+.devcontainer
+workspace.code-workspace
