@@ -1,22 +1,22 @@
 title: Welcome to Flexton
 description: Flexton is a responsive and ultra-minimal theme for Jekyll.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kinlish.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
-author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-name:    Kinlish
+author-image:   author.jpg
+author-job:     Full Stack Developer
+author-email:   kinlish.jh@gmail.com # Add your email for contant form.
+author-twitter: kinlishJH # Add your twitter account
+about-author:   I am a full stack developer but know nothing about development. Always hungry to keep learning.
 
 # Social settings
-social-twitter:   artemsheludko_
-social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
+social-twitter:   kinlishJH
+social-facebook: kinlish.jh
+social-github:    kinlish
+social-pinterest:
+social-instagram:
 social-youtube:
 social-vk:   
 social-linkedin:
@@ -25,10 +25,10 @@ social-linkedin:
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1
+google-analytics: UA-190918239-2 # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: kinlish # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
