@@ -36,11 +36,12 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-paginate
 
-paginate: 5
+paginate: 10
 paginate_path: "/page/:num/"
 
 include:
   - _pages
+  - _blog
 
 sass:
   sass_dir: _sass
@@ -51,3 +52,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - dev-container.sh

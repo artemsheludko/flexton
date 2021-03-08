@@ -5,9 +5,9 @@
 
 <h2>Demo</h2>
 
-Check the theme in action [Demo](https://flexton.netlify.com/)
+Check the theme in action [Demo](https://kinlish.github.io/blog/)
 
-![Page preview](https://github.com/artemsheludko/flexton/blob/master/images/preview.png?raw=true)
+![Page preview](https://kinlish.github.com/blog/images/preview.png?raw=true)
 
 <h2>Features</h2>
 
@@ -47,6 +47,6 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 
 <h2>Buy me a coffee</h2>
 
-<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
+<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/kinlish" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
 <p>Either way, your support is a way to thank me ❤️</p>
 <p align="center"><b>Thank you for your support!</b></p>

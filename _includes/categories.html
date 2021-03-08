@@ -1,7 +1,8 @@
 <div class="c-categories" style="display: none;">
   <ul class="c-categories__list u-lists-reset">
-    {% capture cats %} {% for cat in site.categories %} {{ cat | first }} {% endfor %} {% endcapture %} {% assign sortedCats
-    = cats | split: ' ' | sort %} {% for category in sortedCats %}
+    {% capture cats %} {% for cat in site.categories %} {{ cat | first }} {% endfor %} {% endcapture %} 
+    {% assign sortedCats = cats | split: ' ' | sort %}
+    {% for category in sortedCats %}
     <li class="c-categories__item">
       {% assign cat_dir = site.category_dir | default: 'category' %}
       <a class="c-categories__link" href="{{ site.baseurl }}/{{ cat_dir }}/{{ category | downcase | slugify }}/">
