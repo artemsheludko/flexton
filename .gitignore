@@ -5,3 +5,4 @@ _site
 *.DS_Store
 .devcontainer
 workspace.code-workspace
+*.sh
