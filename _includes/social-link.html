@@ -1,0 +1,19 @@
+<div class="c-sidebar-footer">
+  <div class="c-social">
+    <div class="c-social__title">Social</div>
+    <ul class="c-social__list u-lists-reset">
+      {% for soc in site.data.social %}
+      {% if soc.principal %}
+      <li class="c-social__item">
+        <a href="{{ soc.base-link }}/{{ soc.principal }}" target="_blank">
+          <div data-icon='ei-sc-{{ soc.name }}' data-size='s'></div>
+        </a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="c-copyright">
+    <p>{{site.time | date: '%Y'}} &copy; {{site.author-name}}</p>
+  </div>
+</div>

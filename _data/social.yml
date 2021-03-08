@@ -1,0 +1,24 @@
+- name: twitter
+  base-link: https://twitter.com
+  principal: kinlishJH
+- name: facebook
+  base-link: https://facebook.com
+  principal: kinlish.jh
+- name: github
+  base-link: https://github.com
+  principal: kinlish
+- name: pinterest
+  base-link: https://pinterest.com
+  principal:
+- name: instagram
+  base-link: https://instagram.com
+  principal:
+- name: youtube
+  base-link: https://youtube.com
+  principal:
+- name: vk
+  base-link: https://vk.com
+  principal:
+- name: linkedin
+  base-link: https://in.linkedin.com/in
+  principal:

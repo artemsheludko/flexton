@@ -1,4 +1,4 @@
-title: Welcome to Flexton
+title: Kinlish's Blog
 description: Flexton is a responsive and ultra-minimal theme for Jekyll.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kinlish.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,16 +10,6 @@ author-job:     Full Stack Developer
 author-email:   kinlish.jh@gmail.com # Add your email for contant form.
 author-twitter: kinlishJH # Add your twitter account
 about-author:   I am a full stack developer but know nothing about development. Always hungry to keep learning.
-
-# Social settings
-social-twitter:   kinlishJH
-social-facebook: kinlish.jh
-social-github:    kinlish
-social-pinterest:
-social-instagram:
-social-youtube:
-social-vk:   
-social-linkedin:
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
@@ -41,7 +31,6 @@ paginate_path: "/page/:num/"
 
 include:
   - _pages
-  - _blog
 
 sass:
   sass_dir: _sass
