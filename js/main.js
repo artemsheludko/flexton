@@ -31,11 +31,11 @@ $(document).ready(function () {
     $(this).addClass('is-active');
     if ($('.c-nav__item:last-child').hasClass('is-active')) {
       $('.c-posts').css('display', 'none').removeClass('o-opacity');
-      $('.c-load-more').css('display', 'none')
+      $('.c-pagination').css('display', 'none')
       $('.c-categories').css('display', '').addClass('o-opacity');
     } else {
       $('.c-posts').css('display', '').addClass('o-opacity');
-      $('.c-load-more').css('display', '')
+      $('.c-pagination').css('display', '')
       $('.c-categories').css('display', 'none').removeClass('o-opacity');
     }
   });

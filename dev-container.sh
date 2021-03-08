@@ -8,8 +8,8 @@ else
   docker run -it \
     -e ENV=/root/.profile \
     -v volume.alpine-root:/root \
-    -v $PWD:/app \
-    -w /app \
+    -v $PWD:/blog \
+    -w /blog \
     -p 80:80 \
     --name github-pages -h github-pages \
     kinlish/jekyll-alpine \

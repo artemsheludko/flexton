@@ -36,7 +36,7 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-paginate
 
-paginate: 7
+paginate: 5
 paginate_path: "/page/:num/"
 
 include:
