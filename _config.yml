@@ -4,22 +4,22 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
+author-name:    밍기뉴와제제
 author-image:   1.jpg
 author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-email:   minkyu4506@gmail.com # Add your email for contant form.
+author-twitter: None # Add your twitter account
+about-author:   컴퓨터비전에 관심 있는 예비 공돌이입니다
 
 # Social settings
-social-twitter:   artemsheludko_
-social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
+social-twitter:   
+social-facebook: https://www.facebook.com/profile.php?id=100012826216294
+social-github:    https://github.com/MinkyuKim26
+social-pinterest: 
+social-instagram: https://www.instagram.com/minguinho_26/
 social-youtube:
 social-vk:   
-social-linkedin:
+social-linkedin: https://www.linkedin.com/in/민규-김-24a946188/
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
