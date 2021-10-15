@@ -1,25 +1,25 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+title: Alen Alex
+description: This blog contains my thoughts and reflections 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "thoughts.ajalex.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
-author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-name:    Alen Alex
+author-image:   ajalex_avatar.jpg
+author-job:     Software Engineer
+author-email:    # Add your email for contant form.
+author-twitter: ajalex114 # Add your twitter account
+about-author:   I am a Software Engineer. 
 
 # Social settings
-social-twitter:   artemsheludko_
+social-twitter:   ajalex114
 social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
+social-github:    ajalex114
+social-pinterest: 
+social-instagram: alenjalex
 social-youtube:
 social-vk:   
-social-linkedin:
+social-linkedin: 
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
@@ -28,11 +28,11 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 google-analytics: # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
+permalink: /posts/:title/
 plugins:
   - jekyll-paginate
 
