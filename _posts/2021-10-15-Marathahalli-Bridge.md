@@ -20,7 +20,7 @@ _Here it goes_
 The runway seems to be clear for landing.  
 The private jet slows down, in preparation to land.  
 The VIP slowly wakes up, comfortable on the leather cushioned seat.  
-It was a comfortable ride.  
+_"It was a comfortable ride"_, says he.  
 He gazes out, through the windows, on to Bangalore.  
 He sees a long line.  
 A long line of what!  
@@ -31,11 +31,11 @@ In the long line, there is a 500 NA BMTC bus, on which sits **I**.
 I suddenly woke up from a long rough nap.  
 I looked out of the window, to see the private jet subtly going out of sight to land at the airport.  
 People are walking here and there. Everyone seem to be in a hurry.  
-But why am I not moving!  
+_But why am I not moving!_  
 I gazed forward.  
 We are in a traffic.  
 Marathahalli bridge signal to be specific.  
-Wait. WHAT!!!  
+Wait. **WHAT!!!**  
 I suddenly looked at my watch.  
 It says 11.  
 REALLY!!  
